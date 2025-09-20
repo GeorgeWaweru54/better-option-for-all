@@ -1,0 +1,25 @@
+
+---
+
+### `CONTRIBUTING.md`
+```md
+# Contributing Guidelines
+
+We welcome community contributions to Better Option For All.
+
+## How to Contribute
+1. Fork the repository and create your branch from `main`.
+2. Use descriptive commit messages (e.g., `feat(auth): add user registration`).
+3. Submit a Pull Request with a clear description of changes.
+
+## Coding Standards
+- Follow clear, consistent naming conventions.
+- Write comments for complex logic.
+- Ensure tests pass before submitting.
+
+## Reporting Issues
+- Use the GitHub "Issues" tab.
+- Clearly describe the problem, steps to reproduce, and expected outcome.
+
+## Code of Conduct
+All contributors are expected to follow our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).

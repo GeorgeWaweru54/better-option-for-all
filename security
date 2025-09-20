@@ -1,0 +1,12 @@
+# Security Policy
+
+## Reporting a Vulnerability
+If you discover a security issue, please email us at **security@betteroptionforall.org**.  
+We will respond within 72 hours and aim to resolve issues quickly.
+
+## Supported Versions
+- Current `main` branch
+- Latest stable release
+
+## Data Ethics
+We are committed to protecting user data. All personal information collected will be anonymized for analysis and used only with informed consent. Sensitive data will not be stored in this repository.
